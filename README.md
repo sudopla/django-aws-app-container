@@ -3,7 +3,7 @@ AWS Dashboard
 
 This application shows the current and historical storage usage (EBS, snapshots and S3) in your AWS infrastructure. It also shows your AWS costs by services over time. 
 
- The application was built with [Django](https://www.djangoproject.com/) and uses the libraries [Charjs](https://www.chartjs.org/) to create the graphs and [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) to connect to AWS Cost Explorer. 
+ The application was built with [Django](https://www.djangoproject.com/) and uses the libraries [Charjs](https://www.chartjs.org/) to create the graphs and [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) to connect to AWS Cost Explorer. 
  
  Before running the application, please go to the file [aws.py](app_code/dashboard/lib/aws.py) and write the AWS credentials required to connect to AWS Cost Explorer API. 
  ```
