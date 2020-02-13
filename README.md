@@ -51,4 +51,4 @@ That way, you do not need to have the aws keys in your code.
  ```
  
  
-<img src="img/dashboard.JPG" width="60%">
+<img src="img/dashboard.JPG" width="80%">
