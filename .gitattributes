@@ -1,1 +1,1 @@
-*.* linguist-language=Python
+*.scss linguist-detectable=false
