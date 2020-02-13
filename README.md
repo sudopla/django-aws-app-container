@@ -53,6 +53,6 @@ self.session = boto3.session.Session()
 }
  ```
  
- **Application Screenshot**
+ -----------------
  
 <img src="img/dashboard.JPG" width="100%">
