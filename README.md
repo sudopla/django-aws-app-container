@@ -14,7 +14,7 @@ self.session = boto3.session.Session(
         )
  ```
  
-Please notice that if you are going to run the application in AWS you should follow best practices and assign an IAM role to the instance where the application will be running. 
+Please note that if you are going to run the application in AWS, you should follow best practices and assign an IAM role to the instance where the application will be running. 
 That way, you do not need to have the aws keys in your code.
 
 ```
